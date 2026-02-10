@@ -103,5 +103,5 @@ Ariyasena, C. (2026). *Transforming Banking Helpdesks: Leveraging Multi-Task Mac
 
 ## License
 
-Academic use only.
-For research and educational purposes.
+- Academic use only.
+- For research and educational purposes.
