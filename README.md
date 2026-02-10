@@ -24,7 +24,6 @@ The project presents an integrated AI framework designed to improve banking help
 
 ## Repository Structure
 msc-banking-helpdesk-ai/
-│
 ├── datafiles/
 ├── pythonfiles/
 ├── systemarchitecture/
